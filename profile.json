@@ -76,16 +76,12 @@
         "title": "Tools",
         "items": [
           {
-            "icon": "brand:git",
-            "label": "Git"
+            "icon": "brand:github",
+            "label": "GitHub"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:claude",
+            "label": "Claude (haha)"
           }
         ]
       }
