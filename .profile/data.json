@@ -1,17 +1,13 @@
 {
- "key": "7bedf3ef",
+ "key": "63ac5f3e",
  "stars": 0,
- "contributions": 171,
- "repos": 6,
+ "contributions": 98,
+ "repos": 5,
  "followers": 1,
  "languages": [
   [
    "Python",
    38656
-  ],
-  [
-   "Luau",
-   18061
   ]
  ],
  "days": [
@@ -103,9 +99,13 @@
    {
     "c": 2,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
@@ -113,7 +113,7 @@
  ],
  "streak": {
   "current": 1,
-  "longest": 7
+  "longest": 6
  },
  "pins": [],
  "all": [
@@ -142,15 +142,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "Clover-Hub",
-   "url": "https://github.com/sqwaze1/Clover-Hub",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Luau",
    "topics": []
   },
   {
